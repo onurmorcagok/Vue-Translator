@@ -14,14 +14,14 @@
 </template>
 
 <script>
-import TranslateForm from './components/TranslateForm';
-import SearchHistory from './components/SearchHistory';
+import TranslateForm from "./components/TranslateForm";
+import SearchHistory from "./components/SearchHistory";
 export default {
   name: "App",
   components: {
     TranslateForm,
     SearchHistory,
-  }
+  },
 };
 </script>
 
